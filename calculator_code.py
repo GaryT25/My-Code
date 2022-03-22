@@ -1,5 +1,6 @@
 #Hi all welcome to my first program This is a basic calculator that will repeat for you
 #Any feedback contact me @ truegarythompson@gmail.com Thank you! Enjoy!
+#new updates will come as I improve! last update 3/22/2022 v1.0
 print ("Hi welcome to the Gary Calculator")
 
 print ("First what is your name?")
